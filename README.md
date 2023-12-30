@@ -4,4 +4,4 @@ This app takes any city name on earth, optional country code, and displays accur
 **Presentation link:**
 `https://youtu.be/q6TqZ0l1wgw`
 
-[**You can reach the apk file**](Necati-Android-Weather-App/app/release/)
+[**You can reach the apk file by clicking this**]([Necati-Android-Weather-App/app/release/](https://github.com/MNecati/Necati-Android-Weather-App/tree/main/app/release)https://github.com/MNecati/Necati-Android-Weather-App/tree/main/app/release)
